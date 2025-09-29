@@ -1,5 +1,5 @@
-# Apna-College
+clr# Apna-College
 This is my first project.
 First change.
 <br>
-Authror - Syed Aun
+Authror - Syed Aun (Muhammad)
